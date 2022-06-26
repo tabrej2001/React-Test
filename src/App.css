@@ -1,0 +1,39 @@
+.container {
+  display:flex;
+  border: 1px solid lightgrey;
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+}
+
+.subcontainer {
+  padding-left: 20px;
+  line-height: 5px;
+}
+
+.tags {
+  display:flex;
+}
+
+.buttons {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.tag {
+  padding-left: 5px;
+  background-color: lightcoral;
+}
+
+img {
+  height: 100px;
+  width:100px;
+}
+
+button {
+  width: 100px;
+  margin: 2px;
+  background: white;
+  border-radius: 5px;
+  padding: 5px;
+}
